@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my profile. I am a trainee programmer looking for a challenge ⚡
+### Hi there 👋 Welcome to my profile. I am a programmer looking for a challenge ⚡
 
 - 📫 How to reach me: rosendoalves05@gmail.com
 - 🔭 I’m currently working on CV - Portfolio
